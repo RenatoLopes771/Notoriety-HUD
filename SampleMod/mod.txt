@@ -1,0 +1,17 @@
+{
+	"name" : "Example Mod",
+	"description" : "An example mod that only exists to showcase Github auto-updates with SuperBLT.",
+	"author" : "Rokk",
+	"contact" : "Rokk#8740",
+	"version" : "1.1",
+	"blt_version" : 2,
+	"color" : "255 0 255",
+	"updates" : [
+		{
+			"identifier" : "pd2_sample_autoupdate",
+			"host" : {
+				"meta" : "https://github.com/HugoZink/PD2AutoUpdateExample/releases/download/refs%2Fheads%2Fmaster/meta.json"
+			}
+		}
+	]
+}
